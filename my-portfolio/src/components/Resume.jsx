@@ -27,7 +27,7 @@ const Resume = () => {
           <h3>Full Professional Resume</h3>
           <p>Download my complete resume with detailed projects, skills, and experience.</p>
           <a 
-            href="/Images/Data.pdf" 
+            href="/Images/Data-CV.pdf" 
             download="Ameer_Akech_Resume"
             className="btn resume-download-btn"
           >
