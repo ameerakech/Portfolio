@@ -4,7 +4,7 @@ const WhatIDo = () => {
 const services = [
   {
     title: "ML Engineer",
-    desc: "I design end-to-end ML pipelines that turn raw data into reliable predictions. I’ve built models to forecast California housing prices."
+    desc: "I build end-to-end ML models, like my Titanic survival predictor, from raw data to clear insights."
   },
   {
     title: "Frontend Mobile Development",

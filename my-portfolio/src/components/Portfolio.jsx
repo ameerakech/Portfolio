@@ -18,7 +18,7 @@ const Portfolio = () => {
     {
       img: "/Images/titanic.png",
       title: "Titanic Survival prediction",
-      description: "Cleaned, explored, and modeled the Titanic dataset to predict survival using Python and scikit-learn — with full reproducibility and model comparison.",
+      description: "Cleaned, explored, and modeled the Titanic dataset to predict survival using Python and scikit-learn, with full reproducibility and model comparison.",
       githubLink: "https://github.com/ameerakech/Titanic_data_cleaning/tree/master"
     },
     {
